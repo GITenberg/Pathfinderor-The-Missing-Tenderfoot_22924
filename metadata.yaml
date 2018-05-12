@@ -1,0 +1,25 @@
+_repo: Pathfinderor-The-Missing-Tenderfoot_22924
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Douglas, Alan, Captain
+    gutenberg_agent_id: '9336'
+    url: http://www.gutenberg.org/2009/agents/9336
+description: ''
+gutenberg_issued: '2007-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22924'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Hickory Ridge Boy Scouts.
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Boy Scouts of America -- Juvenile fiction'
+title: Pathfinder; or, The Missing Tenderfoot
+url: http://www.gutenberg.org/ebooks/22924
